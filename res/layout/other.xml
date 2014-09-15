@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent"
+  android:orientation="vertical"
+  android:background="#000000">
+  
+  <TextView
+  	android:layout_width="wrap_content"
+  	android:layout_height="wrap_content"
+  	android:text="作者语： 工作之闲，写个攻略，自娱自乐！ 纪念陪伴度过4年大学时光的真三。本来做这个的主要目的是想自己写攻略，等代码真的写的差不多、copy各种资料已经麻木的时候，我已经暂时没有勇气去完成这件事了，留着以后再弄吧。玩游戏开心就好，写东西也一样。。不勉强自己   O(∩_∩)O ~ \n 有意见或者建议欢迎提出，留个邮箱"
+   	android:textColor="#dd00aa"
+   />
+  
+   <TextView
+  	android:layout_width="wrap_content"
+  	android:layout_height="wrap_content"
+  	android:text="klep1986@163.com"
+  	android:autoLink="email"
+   />
+  
+   <TextView
+  	android:layout_width="wrap_content"
+  	android:layout_height="wrap_content"
+  	android:textColor="#dd00aa"
+  	android:text="\n\n\n有问题 上百度 哈哈"
+   />
+  
+  <TextView
+  	android:layout_width="wrap_content"
+  	android:layout_height="wrap_content"
+  	android:text="www.baidu.com"
+  	android:autoLink="web"
+  />
+  
+</LinearLayout>

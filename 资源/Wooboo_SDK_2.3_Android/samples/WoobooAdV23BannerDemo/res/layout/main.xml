@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:adsdk="http://schemas.android.com/apk/res/com.wooboo.bannerdemo"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/bg"
+    android:orientation="vertical" >
+
+    <com.wooboo.adlib_android.WoobooAdView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        adsdk:backgroundColor="#FF000000"
+        adsdk:refreshInterval="40"
+        adsdk:textColor="#FFFFFFFF" android:id="@+id/wooboobanner"/>
+
+</LinearLayout>

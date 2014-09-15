@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>   
+<skills>
+<jineng>
+<name>属性加强(G)</name>
+<shuoming>永久性的提昇灵活、智慧和力量。</shuoming>
+<jineng_1>(第1级)-所有状态增加2点。</jineng_1>
+<jineng_2>(第2级)-所有状态增加2点。</jineng_2>
+<jineng_3>(第3级)-所有状态增加2点。</jineng_3>
+<jineng_4>(第4级)-所有状态增加2点。</jineng_4>
+</jineng>
+<jineng>
+<name>战争践踏(T) </name>
+<shuoming>猛击地面，伤害附近的敌方地面部队，并把对方统统震昏。</shuoming>
+<jineng_1>(第1级)-造成75点伤害，并昏迷1.5秒。</jineng_1>
+<jineng_2>(第2级)-造成100点伤害，并昏迷2秒。</jineng_2>
+<jineng_3>(第3级)-造成125点伤害，并昏迷2.5秒。</jineng_3>
+<jineng_4>(第4级)-造成150点伤害，并昏迷3秒。</jineng_4>
+</jineng>
+<jineng>
+<name>重击(B)</name>
+<shuoming>每次攻击有机会让攻击增加35破坏力，并昏迷1秒。</shuoming>
+<jineng_1>(第1级)- 10%机率。</jineng_1>
+<jineng_2>(第2级)- 15%机率。</jineng_2>
+<jineng_3>(第3级)- 20%机率。</jineng_3>
+<jineng_4>(第4级)- 25%机率。</jineng_4>
+</jineng>
+<jineng>
+<name>野性战魂(U)</name>
+<shuoming>增加生命再生速率和移动速度。</shuoming>
+<jineng_1>(第1级)-每秒0.6生命再生，6%移动速度。</jineng_1>
+<jineng_2>(第2级)-每秒0.9生命再生，12%移动速度。</jineng_2>
+<jineng_3>(第3级)-每秒1.2生命再生，18%移动速度。</jineng_3>
+<jineng_4>(第4级)-每秒1.5生命再生，24%移动速度。</jineng_4>
+</jineng>
+<jineng>
+<name>妖火(R)</name>
+<shuoming>降低指定目标的部队装甲，并可以看到这个部队，持续20秒。</shuoming>
+<jineng_1>(第1级)-减少5点装甲。</jineng_1>
+<jineng_2>(第2级)-减少10点装甲。</jineng_2>
+<jineng_3>(第3级)-减少15点装甲。</jineng_3>
+</jineng>
+</skills>
